@@ -1,0 +1,1 @@
+Add to a GameObject with a UI Text component for a cheeky FPS counter.

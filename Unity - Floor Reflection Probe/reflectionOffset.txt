@@ -1,0 +1,2 @@
+Add to a Reflecton Probe Object and target a Camera to give perfect floor reflections
+For more info see: http://twiik.net/articles/realtime-reflections-in-unity-5

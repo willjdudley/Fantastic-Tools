@@ -1,0 +1,2 @@
+Duplicate will create a clone of your selection without adding the pesky (01)
+Dupllicate Incremental created a clone of your selection and adds 1 to the name if the name is a just a number. it will only work if the whole name is a number.
